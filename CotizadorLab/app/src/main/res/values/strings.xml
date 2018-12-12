@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CotizadorLab</string>
+    <string name="inicio_de_sesion">Inicio de Sesión</string>
 </resources>
